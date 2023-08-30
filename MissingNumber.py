@@ -1,3 +1,4 @@
+#This is a long solution but I'm tryna learn how to use dictionary.
 def findMissingNumber(n,arr,dict):
     for x in arr:
         dict[x] = 1
